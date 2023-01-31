@@ -25,3 +25,5 @@ I've just created the repository, so don't treat this as canonical for now! Here
 - https://mathlive.mentat.org
 - https://clerk-utils.mentat.org
 - [inside-out forms library](https://inside-out.matt.is/)
+- @phronmophobic, [Styled Text experiments](https://phronmophobic.github.io/membrane/styled-text/)
+- @jhimanka, [Hairdresser density in Finnish municipalities](https://jhimanka.github.io/parturit/notebooks/barbers.html) ([code](https://github.com/jhimanka/parturit))
