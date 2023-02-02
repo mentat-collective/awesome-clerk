@@ -18,13 +18,16 @@ I've just created the repository, so don't treat this as canonical for now! Here
 - [Clerk Demo repository](https://github.clerk.garden/nextjournal/clerk-demo/)
 - [Garden](https://github.clerk.garden/)
 - [Book of Clerk](https://github.clerk.garden/nextjournal/book-of-clerk)
-- https://leva.mentat.org
-- https://mafs.mentat.org
-- https://jsxgraph.mentat.org
-- https://mathbox.mentat.org
-- https://mathlive.mentat.org
 - https://clerk-utils.mentat.org
 - [inside-out forms library](https://inside-out.matt.is/)
 - @phronmophobic, [Styled Text experiments](https://phronmophobic.github.io/membrane/styled-text/)
 - @jhimanka, [Hairdresser density in Finnish municipalities](https://jhimanka.github.io/parturit/notebooks/barbers.html) ([code](https://github.com/jhimanka/parturit))
 - Exploration of the [UNIPROT SPARQL interface](https://sparql.uniprot.org/). [Index](https://zachcp.github.io/sparql-explore/), [code](https://github.com/zachcp/sparql-explore)
+
+## Plugins
+
+- https://leva.mentat.org
+- https://mafs.mentat.org
+- https://jsxgraph.mentat.org
+- https://mathbox.mentat.org
+- https://mathlive.mentat.org
